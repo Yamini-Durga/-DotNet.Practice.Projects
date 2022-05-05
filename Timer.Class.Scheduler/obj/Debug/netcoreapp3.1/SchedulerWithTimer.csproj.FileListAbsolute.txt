@@ -1,0 +1,12 @@
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.exe
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.deps.json
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.runtimeconfig.json
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.runtimeconfig.dev.json
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.dll
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\bin\Debug\netcoreapp3.1\SchedulerWithTimer.pdb
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.AssemblyInfoInputs.cache
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.AssemblyInfo.cs
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.csproj.CoreCompileInputs.cache
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.dll
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.pdb
+C:\Yamini\yam\Learn\DotNet.Practice.Projects\Timer.Class.Scheduler\obj\Debug\netcoreapp3.1\SchedulerWithTimer.genruntimeconfig.cache
